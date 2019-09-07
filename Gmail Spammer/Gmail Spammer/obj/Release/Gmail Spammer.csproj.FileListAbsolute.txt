@@ -1,0 +1,11 @@
+G:\C#\Gmail Spammer\Gmail Spammer\bin\Release\Gmail Spammer.exe.config
+G:\C#\Gmail Spammer\Gmail Spammer\bin\Release\Gmail Spammer.exe
+G:\C#\Gmail Spammer\Gmail Spammer\bin\Release\Gmail Spammer.pdb
+G:\C#\Gmail Spammer\Gmail Spammer\bin\Release\MaterialSkin.dll
+G:\C#\Gmail Spammer\Gmail Spammer\obj\Release\Gmail_Spammer.Form1.resources
+G:\C#\Gmail Spammer\Gmail Spammer\obj\Release\Gmail_Spammer.Properties.Resources.resources
+G:\C#\Gmail Spammer\Gmail Spammer\obj\Release\Gmail Spammer.csproj.GenerateResource.cache
+G:\C#\Gmail Spammer\Gmail Spammer\obj\Release\Gmail Spammer.csproj.CoreCompileInputs.cache
+G:\C#\Gmail Spammer\Gmail Spammer\obj\Release\Gmail Spammer.csproj.CopyComplete
+G:\C#\Gmail Spammer\Gmail Spammer\obj\Release\Gmail Spammer.exe
+G:\C#\Gmail Spammer\Gmail Spammer\obj\Release\Gmail Spammer.pdb
